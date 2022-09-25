@@ -1,0 +1,8 @@
+ quản lý: quanly01@gmail.com
+mk: quanly01
+
+  nhân viên: nhavien01@gmail.com
+mk: nhanvien01
+
+  người dùng: khachhang01@gmail.com
+mk: khachhang01
